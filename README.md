@@ -6,9 +6,6 @@ with verbatim transcription, automatic speaker
 diarization, timestamps, and unclear speech detection.
 Powered by Faster-Whisper and Sherpa-ONNX.
 
-
-# Project Verbatim
-
 **Audio Transcription & Speaker Diarization**
 
 Project Verbatim is a desktop-based audio transcription application designed to produce detailed verbatim transcripts with automatic speaker identification.
