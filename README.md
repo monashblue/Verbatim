@@ -1,5 +1,5 @@
 # Verbatim
-An Automatic Audio Transcriptor
+An Automatic Audio Transcriptor. Build by Claude AI, perfected with ChatGPT.
 
 A desktop-based audio transcription application
 with verbatim transcription, automatic speaker
